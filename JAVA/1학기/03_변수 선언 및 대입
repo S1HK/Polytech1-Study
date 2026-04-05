@@ -1,0 +1,8 @@
+public class Data {
+    static void main(String[] args) {
+        int a, b;
+        a = 2; b = 3; a = b;
+
+        System.out.println(a);
+    }
+}

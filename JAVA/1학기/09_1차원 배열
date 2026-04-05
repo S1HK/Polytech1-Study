@@ -1,0 +1,10 @@
+public class Number1 {
+    static void main(String[] args) {
+        int [] scores = {90, 85, 70, 95, 80};
+
+        System.out.println("첫 번째 학생 점수: " + scores[0]);
+        System.out.println("세 번째 학생 점수: " + scores[2]);
+
+        System.out.println("전체 학생 수: " + scores.length + "명");
+    }
+}
